@@ -1,0 +1,345 @@
+SmarterCoffee change count of cups in app start 1512748550.449706   2017-12-08 16:55:50.449706
+SmarterCoffee change count of cups in app end 1512748556.617617   2017-12-08 16:55:56.617617
+SmarterCoffee change count of cups in app start 1512748571.425818   2017-12-08 16:56:11.425818
+SmarterCoffee change count of cups in app end 1512748578.329852   2017-12-08 16:56:18.329852
+SmarterCoffee change count of cups in app start 1512748590.474022   2017-12-08 16:56:30.474022
+SmarterCoffee change count of cups in app end 1512748595.457648   2017-12-08 16:56:35.457648
+SmarterCoffee change count of cups in app start 1512748606.145649   2017-12-08 16:56:46.145649
+SmarterCoffee change count of cups in app end 1512748611.881871   2017-12-08 16:56:51.881871
+SmarterCoffee change count of cups in app start 1512748625.585741   2017-12-08 16:57:05.585741
+SmarterCoffee change count of cups in app end 1512748631.273671   2017-12-08 16:57:11.273671
+SmarterCoffee change coffee type in app start 1512748660.489744   2017-12-08 16:57:40.489744
+SmarterCoffee change coffee type in app end 1512748663.665694   2017-12-08 16:57:43.665694
+SmarterCoffee change coffee type in app start 1512748674.865730   2017-12-08 16:57:54.865730
+SmarterCoffee change coffee type in app end 1512748677.361693   2017-12-08 16:57:57.361693
+SmarterCoffee change coffee type in app start 1512748686.322100   2017-12-08 16:58:06.322100
+SmarterCoffee change coffee type in app end 1512748690.881957   2017-12-08 16:58:10.881957
+SmarterCoffee change coffee type in app start 1512748702.554040   2017-12-08 16:58:22.554040
+SmarterCoffee change coffee type in app end 1512748705.977845   2017-12-08 16:58:25.977845
+SmarterCoffee change coffee type in app start 1512748715.753874   2017-12-08 16:58:35.753874
+SmarterCoffee change coffee type in app end 1512748718.777887   2017-12-08 16:58:38.777887
+SmarterCoffee change coffee strongness in app start 1512748778.546056   2017-12-08 16:59:38.546056
+SmarterCoffee change coffee strongness in app end 1512748781.017928   2017-12-08 16:59:41.017928
+SmarterCoffee change coffee strongness in app start 1512748791.713887   2017-12-08 16:59:51.713887
+SmarterCoffee change coffee strongness in app end 1512748794.706185   2017-12-08 16:59:54.706185
+SmarterCoffee change coffee strongness in app start 1512748806.681815   2017-12-08 17:00:06.681815
+SmarterCoffee change coffee strongness in app end 1512748808.737814   2017-12-08 17:00:08.737814
+SmarterCoffee change coffee strongness in app start 1512748820.121836   2017-12-08 17:00:20.121836
+SmarterCoffee change coffee strongness in app end 1512748822.433840   2017-12-08 17:00:22.433840
+SmarterCoffee change coffee strongness in app start 1512748833.586152   2017-12-08 17:00:33.586152
+SmarterCoffee change coffee strongness in app end 1512748835.321869   2017-12-08 17:00:35.321869
+SmarterCoffee check water level in app start 1512748862.738183   2017-12-08 17:01:02.738183
+SmarterCoffee check water level in app end 1512748868.498124   2017-12-08 17:01:08.498124
+SmarterCoffee check water level in app start 1512748880.778100   2017-12-08 17:01:20.778100
+SmarterCoffee check water level in app end 1512748885.426461   2017-12-08 17:01:25.426461
+SmarterCoffee check water level in app start 1512748897.705996   2017-12-08 17:01:37.705996
+SmarterCoffee check water level in app end 1512748901.689843   2017-12-08 17:01:41.689843
+SmarterCoffee check water level in app start 1512748915.657877   2017-12-08 17:01:55.657877
+SmarterCoffee check water level in app end 1512748919.289922   2017-12-08 17:01:59.289922
+SmarterCoffee check water level in app start 1512748931.778113   2017-12-08 17:02:11.778113
+SmarterCoffee check water level in app end 1512748935.434035   2017-12-08 17:02:15.434035
+SmarterCoffee keeping warm turn on in app start 1512749017.722072   2017-12-08 17:03:37.722072
+SmarterCoffee keeping warm turn on in app end 1512749020.946152   2017-12-08 17:03:40.946152
+SmarterCoffee keeping warm turn off in app start 1512749030.882019   2017-12-08 17:03:50.882019
+SmarterCoffee keeping warm turn off in app end 1512749032.674143   2017-12-08 17:03:52.674143
+SmarterCoffee keeping warm turn on in app start 1512749050.338043   2017-12-08 17:04:10.338043
+SmarterCoffee keeping warm turn on in app end 1512749054.770371   2017-12-08 17:04:14.770371
+SmarterCoffee keeping warm turn off in app start 1512749062.882086   2017-12-08 17:04:22.882086
+SmarterCoffee keeping warm turn off in app end 1512749064.826057   2017-12-08 17:04:24.826057
+SmarterCoffee keeping warm turn on in app start 1512749074.106012   2017-12-08 17:04:34.106012
+SmarterCoffee keeping warm turn on in app end 1512749076.082067   2017-12-08 17:04:36.082067
+SmarterCoffee keeping warm turn off in app start 1512749085.954070   2017-12-08 17:04:45.954070
+SmarterCoffee keeping warm turn off in app end 1512749087.690284   2017-12-08 17:04:47.690284
+SmarterCoffee keeping warm turn on in app start 1512749098.002193   2017-12-08 17:04:58.002193
+SmarterCoffee keeping warm turn on in app end 1512749099.938402   2017-12-08 17:04:59.938402
+SmarterCoffee keeping warm turn off in app start 1512749109.410100   2017-12-08 17:05:09.410100
+SmarterCoffee keeping warm turn off in app end 1512749111.178098   2017-12-08 17:05:11.178098
+SmarterCoffee keeping warm turn on in app start 1512749121.642447   2017-12-08 17:05:21.642447
+SmarterCoffee keeping warm turn on in app end 1512749123.922408   2017-12-08 17:05:23.922408
+SmarterCoffee keeping warm turn off in app start 1512749133.410547   2017-12-08 17:05:33.410547
+SmarterCoffee keeping warm turn off in app end 1512749135.250073   2017-12-08 17:05:35.250073
+iKettle2 Check water level in app start 1512749171.226358   2017-12-08 17:06:11.226358
+iKettle2 Check water level in app end 1512749174.626204   2017-12-08 17:06:14.626204
+iKettle2 Check water level in app start 1512749187.466200   2017-12-08 17:06:27.466200
+iKettle2 Check water level in app end 1512749190.866317   2017-12-08 17:06:30.866317
+iKettle2 Check water level in app start 1512749202.698588   2017-12-08 17:06:42.698588
+iKettle2 Check water level in app end 1512749211.306513   2017-12-08 17:06:51.306513
+iKettle2 Check water level in app start 1512749222.282419   2017-12-08 17:07:02.282419
+iKettle2 Check water level in app end 1512749225.898337   2017-12-08 17:07:05.898337
+iKettle2 Check water level in app start 1512749237.042227   2017-12-08 17:07:17.042227
+iKettle2 Check water level in app end 1512749241.290227   2017-12-08 17:07:21.290227
+iKettle2 Check water level in app start 1512749249.458561   2017-12-08 17:07:29.458561
+iKettle2 Check water level in app end 1512749254.618582   2017-12-08 17:07:34.618582
+iKettle2 Check water level in app start 1512749267.002525   2017-12-08 17:07:47.002525
+iKettle2 Check water level in app end 1512749270.354288   2017-12-08 17:07:50.354288
+iKettle2 Check water level in app start 1512749281.354642   2017-12-08 17:08:01.354642
+iKettle2 Check water level in app end 1512749284.842620   2017-12-08 17:08:04.842620
+iKettle2 Check water level in app start 1512749296.282652   2017-12-08 17:08:16.282652
+iKettle2 Check water level in app end 1512749300.874563   2017-12-08 17:08:20.874563
+iKettle2 Change temperatur in app start 1512749330.026571   2017-12-08 17:08:50.026571
+iKettle2 Change temperatur in app end 1512749333.578299   2017-12-08 17:08:53.578299
+iKettle2 Change temperatur in app start 1512749346.378346   2017-12-08 17:09:06.378346
+iKettle2 Change temperatur in app end 1512749349.066329   2017-12-08 17:09:09.066329
+iKettle2 Change temperatur in app start 1512749365.746326   2017-12-08 17:09:25.746326
+iKettle2 Change temperatur in app end 1512749367.986333   2017-12-08 17:09:27.986333
+iKettle2 Change temperatur in app start 1512749381.394387   2017-12-08 17:09:41.394387
+iKettle2 Change temperatur in app end 1512749383.738487   2017-12-08 17:09:43.738487
+iKettle2 Change temperatur in app start 1512749397.010354   2017-12-08 17:09:57.010354
+iKettle2 Change temperatur in app end 1512749400.154372   2017-12-08 17:10:00.154372
+iKettle2 Change temperatur in app start 1512749431.114393   2017-12-08 17:10:31.114393
+iKettle2 Change temperatur in app end 1512749433.218448   2017-12-08 17:10:33.218448
+iKettle2 Change temperatur in app start 1512749446.026422   2017-12-08 17:10:46.026422
+iKettle2 Change temperatur in app end 1512749448.138448   2017-12-08 17:10:48.138448
+iKettle2 Change temperatur in app start 1512749460.930826   2017-12-08 17:11:00.930826
+iKettle2 Change temperatur in app end 1512749463.050429   2017-12-08 17:11:03.050429
+iKettle2 Change temperatur in app start 1512749474.946812   2017-12-08 17:11:14.946812
+iKettle2 Change temperatur in app end 1512749476.538387   2017-12-08 17:11:16.538387
+iKettle2 Change temperatur in app start 1512749489.506458   2017-12-08 17:11:29.506458
+iKettle2 Change temperatur in app end 1512749491.538819   2017-12-08 17:11:31.538819
+iKettle2 Change temperatur in app start 1512749503.970492   2017-12-08 17:11:43.970492
+iKettle2 Change temperatur in app end 1512749509.210547   2017-12-08 17:11:49.210547
+HueBridge turn scene on in app start 1512749538.098536   2017-12-08 17:12:18.098536
+HueBridge turn scene on in app end 1512749540.618503   2017-12-08 17:12:20.618503
+HueBridge turn scene off in app start 1512749551.154496   2017-12-08 17:12:31.154496
+HueBridge turn scene off in app end 1512749555.018499   2017-12-08 17:12:35.018499
+HueBridge turn scene on in app start 1512749566.530908   2017-12-08 17:12:46.530908
+HueBridge turn scene on in app end 1512749569.290371   2017-12-08 17:12:49.290371
+HueBridge turn scene off in app start 1512749594.162590   2017-12-08 17:13:14.162590
+HueBridge turn scene off in app end 1512749597.978866   2017-12-08 17:13:17.978866
+HueBridge turn scene on in app start 1512749608.698585   2017-12-08 17:13:28.698585
+HueBridge turn scene on in app end 1512749611.306841   2017-12-08 17:13:31.306841
+HueBridge turn scene off in app start 1512749622.018510   2017-12-08 17:13:42.018510
+HueBridge turn scene off in app end 1512749630.202699   2017-12-08 17:13:50.202699
+HueBridge turn scene on in app start 1512749643.938637   2017-12-08 17:14:03.938637
+HueBridge turn scene off in app start 1512749656.570593   2017-12-08 17:14:16.570593
+HueBridge turn scene off in app end 1512749661.402879   2017-12-08 17:14:21.402879
+HueBridge turn scene on in app start 1512749671.658849   2017-12-08 17:14:31.658849
+HueBridge turn scene on in app end 1512749674.162721   2017-12-08 17:14:34.162721
+HueBridge turn scene off in app start 1512749686.106649   2017-12-08 17:14:46.106649
+HueBridge turn scene off in app end 1512749689.362643   2017-12-08 17:14:49.362643
+HueBridge turn scene on in app start 1512749701.090623   2017-12-08 17:15:01.090623
+HueBridge turn scene on in app end 1512749703.290860   2017-12-08 17:15:03.290860
+HueBridge turn scene off in app start 1512749714.682896   2017-12-08 17:15:14.682896
+HueBridge turn scene off in app end 1512749719.546593   2017-12-08 17:15:19.546593
+HueBridge turn scene on in app start 1512749741.682974   2017-12-08 17:15:41.682974
+HueBridge turn scene on in app end 1512749743.746702   2017-12-08 17:15:43.746702
+HueBridge turn scene off in app start 1512749753.578792   2017-12-08 17:15:53.578792
+HueBridge turn scene off in app end 1512749756.362683   2017-12-08 17:15:56.362683
+HueBridge turn scene on in app start 1512749768.682711   2017-12-08 17:16:08.682711
+HueBridge turn scene on in app end 1512749770.995044   2017-12-08 17:16:10.995044
+HueBridge turn scene off in app start 1512749792.618903   2017-12-08 17:16:32.618903
+HueBridge turn scene off in app end 1512749795.483088   2017-12-08 17:16:35.483088
+HueBridge turn scene on in app start 1512749805.307053   2017-12-08 17:16:45.307053
+HueBridge turn scene on in app end 1512749807.410720   2017-12-08 17:16:47.410720
+HueBridge turn scene off in app start 1512749821.539026   2017-12-08 17:17:01.539026
+HueBridge turn scene off in app end 1512749825.674765   2017-12-08 17:17:05.674765
+HueBridge turn scene on in app start 1512749838.066754   2017-12-08 17:17:18.066754
+HueBridge turn scene on in app end 1512749840.114770   2017-12-08 17:17:20.114770
+HueBridge turn scene off in app start 1512749851.354777   2017-12-08 17:17:31.354777
+HueBridge turn scene off in app end 1512749854.995130   2017-12-08 17:17:34.995130
+HueBridge turn scene on in app start 1512749872.138841   2017-12-08 17:17:52.138841
+HueBridge turn scene on in app end 1512749874.338807   2017-12-08 17:17:54.338807
+HueBridge turn scene off in app start 1512749883.074817   2017-12-08 17:18:03.074817
+HueBridge turn scene off in app end 1512749885.715162   2017-12-08 17:18:05.715162
+HueBridge turn scene on in app start 1512749898.386671   2017-12-08 17:18:18.386671
+HueBridge turn scene on in app end 1512749900.458830   2017-12-08 17:18:20.458830
+HueBridge turn scene off in app start 1512749913.418828   2017-12-08 17:18:33.418828
+HueBridge turn scene off in app end 1512749916.234825   2017-12-08 17:18:36.234825
+HueBridge turn scene on in app start 1512749929.739210   2017-12-08 17:18:49.739210
+HueBridge turn scene on in app end 1512749931.866855   2017-12-08 17:18:51.866855
+HueBridge turn scene off in app start 1512749945.306898   2017-12-08 17:19:05.306898
+HueBridge turn scene off in app end 1512749948.738985   2017-12-08 17:19:08.738985
+HueBridge turn scene on in app start 1512749965.090891   2017-12-08 17:19:25.090891
+HueBridge turn scene on in app end 1512749967.154888   2017-12-08 17:19:27.154888
+HueBridge turn scene off in app start 1512749981.202993   2017-12-08 17:19:41.202993
+HueBridge turn scene off in app end 1512749984.706942   2017-12-08 17:19:44.706942
+HueBridge turn scene on in app start 1512749999.434863   2017-12-08 17:19:59.434863
+HueBridge turn scene off in app start 1512750016.235173   2017-12-08 17:20:16.235173
+HueBridge turn scene off in app end 1512750019.163252   2017-12-08 17:20:19.163252
+HueBridge turn scene on in app start 1512750032.883170   2017-12-08 17:20:32.883170
+HueBridge turn scene on in app end 1512750034.771020   2017-12-08 17:20:34.771020
+HueBridge turn scene off in app start 1512750049.434963   2017-12-08 17:20:49.434963
+HueBridge turn scene off in app end 1512750053.162976   2017-12-08 17:20:53.162976
+HueBridge turn scene on in app start 1512750065.898806   2017-12-08 17:21:05.898806
+HueBridge turn scene on in app end 1512750067.931079   2017-12-08 17:21:07.931079
+HueBridge turn scene off in app start 1512750084.219023   2017-12-08 17:21:24.219023
+HueBridge turn scene off in app end 1512750086.706999   2017-12-08 17:21:26.706999
+HueBridge turn scene on in app start 1512750099.347001   2017-12-08 17:21:39.347001
+HueBridge turn scene on in app end 1512750111.691012   2017-12-08 17:21:51.691012
+HueBridge turn scene off in app start 1512750129.083033   2017-12-08 17:22:09.083033
+HueBridge turn scene off in app end 1512750131.971330   2017-12-08 17:22:11.971330
+HueBridge turn scene on in app start 1512750174.211111   2017-12-08 17:22:54.211111
+HueBridge turn scene on in app end 1512750176.163084   2017-12-08 17:22:56.163084
+HueBridge turn scene off in app start 1512750187.907152   2017-12-08 17:23:07.907152
+HueBridge turn scene off in app end 1512750190.547151   2017-12-08 17:23:10.547151
+HueBridge turn scene on in app start 1512750209.019175   2017-12-08 17:23:29.019175
+HueBridge turn scene on in app end 1512750211.579446   2017-12-08 17:23:31.579446
+HueBridge turn scene off in app start 1512750226.835242   2017-12-08 17:23:46.835242
+HueBridge turn scene off in app end 1512750230.123152   2017-12-08 17:23:50.123152
+HueSwitch press button 2 (light on) start 1512750290.612329   2017-12-08 17:24:50.612329
+HueSwitch press button 2 (light on) end 1512750292.291028   2017-12-08 17:24:52.291028
+HueSwitch press button 1 (light off) start 1512750303.235195   2017-12-08 17:25:03.235195
+HueSwitch press button 1 (light off) end 1512750304.395203   2017-12-08 17:25:04.395203
+HueSwitch press button 2 (light on) start 1512750321.411268   2017-12-08 17:25:21.411268
+HueSwitch press button 2 (light on) end 1512750323.179220   2017-12-08 17:25:23.179220
+HueSwitch press button 1 (light off) start 1512750342.523563   2017-12-08 17:25:42.523563
+HueSwitch press button 1 (light off) end 1512750344.123177   2017-12-08 17:25:44.123177
+HueSwitch press button 2 (light on) start 1512750373.355479   2017-12-08 17:26:13.355479
+HueSwitch press button 1 (light off) start 1512750392.235288   2017-12-08 17:26:32.235288
+HueSwitch press button 1 (light off) end 1512750393.883318   2017-12-08 17:26:33.883318
+HueSwitch press button 2 (light on) start 1512750420.931379   2017-12-08 17:27:00.931379
+HueSwitch press button 2 (light on) end 1512750422.659504   2017-12-08 17:27:02.659504
+HueSwitch press button 1 (light off) start 1512750440.683842   2017-12-08 17:27:20.683842
+HueSwitch press button 1 (light off) end 1512750442.107314   2017-12-08 17:27:22.107314
+HueSwitch press button 2 (light on) start 1512750468.275703   2017-12-08 17:27:48.275703
+HueSwitch press button 2 (light on) end 1512750470.195359   2017-12-08 17:27:50.195359
+HueSwitch press button 1 (light off) start 1512750484.315463   2017-12-08 17:28:04.315463
+HueSwitch press button 1 (light off) end 1512750485.731392   2017-12-08 17:28:05.731392
+HueSwitch press button 2 (light on) start 1512750506.339428   2017-12-08 17:28:26.339428
+HueSwitch press button 2 (light on) end 1512750508.163492   2017-12-08 17:28:28.163492
+HueSwitch press button 1 (light off) start 1512750527.979427   2017-12-08 17:28:47.979427
+HueSwitch press button 1 (light off) end 1512750529.419442   2017-12-08 17:28:49.419442
+HueSwitch press button 2 (light on) start 1512750547.619452   2017-12-08 17:29:07.619452
+HueSwitch press button 2 (light on) end 1512750548.971444   2017-12-08 17:29:08.971444
+HueSwitch press button 1 (light off) start 1512750562.603791   2017-12-08 17:29:22.603791
+HueSwitch press button 1 (light off) end 1512750564.123500   2017-12-08 17:29:24.123500
+HueSwitch press button 2 (light on) start 1512750579.587386   2017-12-08 17:29:39.587386
+HueSwitch press button 2 (light on) end 1512750581.171507   2017-12-08 17:29:41.171507
+HueSwitch press button 1 (light off) start 1512750595.499480   2017-12-08 17:29:55.499480
+HueSwitch press button 1 (light off) end 1512750596.627882   2017-12-08 17:29:56.627882
+HueSwitch press button 2 (light on) start 1512750612.491760   2017-12-08 17:30:12.491760
+HueSwitch press button 2 (light on) end 1512750613.843645   2017-12-08 17:30:13.843645
+HueSwitch press button 1 (light off) start 1512750643.596041   2017-12-08 17:30:43.596041
+HueSwitch press button 1 (light off) end 1512750645.403753   2017-12-08 17:30:45.403753
+HueSwitch press button 2 (light on) start 1512750664.987754   2017-12-08 17:31:04.987754
+HueSwitch press button 2 (light on) end 1512750666.723889   2017-12-08 17:31:06.723889
+HueSwitch press button 1 (light off) start 1512750677.667740   2017-12-08 17:31:17.667740
+HueSwitch press button 1 (light off) end 1512750679.147487   2017-12-08 17:31:19.147487
+HueSwitch press button 2 (light on) start 1512750698.195639   2017-12-08 17:31:38.195639
+HueSwitch press button 2 (light on) end 1512750700.091497   2017-12-08 17:31:40.091497
+HueSwitch press button 1 (light off) start 1512750710.635928   2017-12-08 17:31:50.635928
+HueSwitch press button 1 (light off) end 1512750711.939898   2017-12-08 17:31:51.939898
+HueSwitch press button 2 (light on) start 1512750736.339439   2017-12-08 17:32:16.339439
+HueSwitch press button 2 (light on) end 1512750737.851809   2017-12-08 17:32:17.851809
+HueSwitch press button 1 (light off) start 1512750748.587834   2017-12-08 17:32:28.587834
+HueSwitch press button 1 (light off) end 1512750750.123674   2017-12-08 17:32:30.123674
+HueSwitch press button 2 (light on) start 1512750776.291439   2017-12-08 17:32:56.291439
+HueSwitch press button 2 (light on) end 1512750777.979471   2017-12-08 17:32:57.979471
+HueSwitch press button 1 (light off) start 1512750791.572037   2017-12-08 17:33:11.572037
+HueSwitch press button 1 (light off) end 1512750794.995664   2017-12-08 17:33:14.995664
+HueSwitch press button 2 (light on) start 1512750817.435651   2017-12-08 17:33:37.435651
+HueSwitch press button 2 (light on) end 1512750819.395779   2017-12-08 17:33:39.395779
+HueSwitch press button 1 (light off) start 1512750836.643693   2017-12-08 17:33:56.643693
+HueSwitch press button 1 (light off) end 1512750838.067684   2017-12-08 17:33:58.067684
+HueSwitch press button 2 (light on) start 1512750852.043657   2017-12-08 17:34:12.043657
+HueSwitch press button 2 (light on) end 1512750854.579716   2017-12-08 17:34:14.579716
+HueSwitch press button 1 (light off) start 1512750869.267892   2017-12-08 17:34:29.267892
+HueSwitch press button 1 (light off) end 1512750870.691540   2017-12-08 17:34:30.691540
+HueSwitch press button 2 (light on) start 1512750892.868073   2017-12-08 17:34:52.868073
+HueSwitch press button 2 (light on) end 1512750895.059748   2017-12-08 17:34:55.059748
+HueSwitch press button 1 (light off) start 1512750905.139807   2017-12-08 17:35:05.139807
+HueSwitch press button 1 (light off) end 1512750906.803835   2017-12-08 17:35:06.803835
+HueSwitch press button 2 (light on) start 1512750920.340071   2017-12-08 17:35:20.340071
+HueSwitch press button 2 (light on) end 1512750921.900016   2017-12-08 17:35:21.900016
+HueSwitch press button 1 (light off) start 1512750935.291778   2017-12-08 17:35:35.291778
+HueSwitch press button 1 (light off) end 1512750936.251703   2017-12-08 17:35:36.251703
+HueSwitch press button 2 (light on) start 1512750948.539645   2017-12-08 17:35:48.539645
+HueSwitch press button 2 (light on) end 1512750950.395786   2017-12-08 17:35:50.395786
+HueSwitch press button 1 (light off) start 1512750961.379791   2017-12-08 17:36:01.379791
+HueSwitch press button 1 (light off) end 1512750962.764066   2017-12-08 17:36:02.764066
+HueSwitch press button 2 (light on) start 1512750974.395759   2017-12-08 17:36:14.395759
+HueSwitch press button 2 (light on) end 1512750975.715753   2017-12-08 17:36:15.715753
+HueSwitch press button 1 (light off) start 1512750988.251821   2017-12-08 17:36:28.251821
+HueSwitch press button 1 (light off) end 1512750989.571809   2017-12-08 17:36:29.571809
+HueSwitch press button 2 (light on) start 1512751003.131902   2017-12-08 17:36:43.131902
+HueSwitch press button 2 (light on) end 1512751004.531818   2017-12-08 17:36:44.531818
+HueSwitch press button 1 (light off) start 1512751016.171855   2017-12-08 17:36:56.171855
+HueSwitch press button 1 (light off) end 1512751017.371882   2017-12-08 17:36:57.371882
+DLinkSwitch turn on in app start 1512751057.124224   2017-12-08 17:37:37.124224
+DLinkSwitch turn on in app end 1512751058.972219   2017-12-08 17:37:38.972219
+DLinkSwitch turn off in app start 1512751069.251899   2017-12-08 17:37:49.251899
+DLinkSwitch turn off in app end 1512751071.123900   2017-12-08 17:37:51.123900
+DLinkSwitch turn on in app start 1512751085.083905   2017-12-08 17:38:05.083905
+DLinkSwitch turn on in app end 1512751087.043926   2017-12-08 17:38:07.043926
+DLinkSwitch turn off in app start 1512751099.516167   2017-12-08 17:38:19.516167
+DLinkSwitch turn off in app end 1512751101.764143   2017-12-08 17:38:21.764143
+DLinkSwitch turn on in app start 1512751113.587931   2017-12-08 17:38:33.587931
+DLinkSwitch turn on in app end 1512751115.483933   2017-12-08 17:38:35.483933
+DLinkSwitch turn off in app start 1512751124.788303   2017-12-08 17:38:44.788303
+DLinkSwitch turn off in app end 1512751126.940352   2017-12-08 17:38:46.940352
+DLinkSwitch turn on in app start 1512751138.060118   2017-12-08 17:38:58.060118
+DLinkSwitch turn on in app end 1512751140.067944   2017-12-08 17:39:00.067944
+DLinkSwitch turn off in app start 1512751151.036082   2017-12-08 17:39:11.036082
+DLinkSwitch turn off in app end 1512751152.500119   2017-12-08 17:39:12.500119
+DLinkSwitch turn on in app start 1512751172.779996   2017-12-08 17:39:32.779996
+DLinkSwitch turn on in app end 1512751175.243957   2017-12-08 17:39:35.243957
+DLinkSwitch turn off in app start 1512751184.812209   2017-12-08 17:39:44.812209
+DLinkSwitch turn off in app end 1512751186.908005   2017-12-08 17:39:46.908005
+DLinkSwitch turn on in app start 1512751198.084045   2017-12-08 17:39:58.084045
+DLinkSwitch turn on in app end 1512751200.028446   2017-12-08 17:40:00.028446
+DLinkSwitch turn off in app start 1512751211.844322   2017-12-08 17:40:11.844322
+DLinkSwitch turn off in app end 1512751213.732049   2017-12-08 17:40:13.732049
+DLinkSwitch turn on in app start 1512751225.964108   2017-12-08 17:40:25.964108
+DLinkSwitch turn on in app end 1512751227.796339   2017-12-08 17:40:27.796339
+DLinkSwitch turn off in app start 1512751239.332102   2017-12-08 17:40:39.332102
+DLinkSwitch turn off in app end 1512751240.940247   2017-12-08 17:40:40.940247
+DLinkSwitch turn on in app start 1512751251.899984   2017-12-08 17:40:51.899984
+DLinkSwitch turn on in app end 1512751253.612056   2017-12-08 17:40:53.612056
+DLinkSwitch turn off in app start 1512751264.940067   2017-12-08 17:41:04.940067
+DLinkSwitch turn off in app end 1512751266.740410   2017-12-08 17:41:06.740410
+DLinkSwitch turn on in app start 1512751277.932211   2017-12-08 17:41:17.932211
+DLinkSwitch turn on in app end 1512751279.532075   2017-12-08 17:41:19.532075
+DLinkSwitch turn off in app start 1512751292.092087   2017-12-08 17:41:32.092087
+DLinkSwitch turn off in app end 1512751293.788134   2017-12-08 17:41:33.788134
+DLinkSwitch turn on in app start 1512751305.404253   2017-12-08 17:41:45.404253
+DLinkSwitch turn on in app end 1512751307.188168   2017-12-08 17:41:47.188168
+DLinkSwitch turn off in app start 1512751318.132128   2017-12-08 17:41:58.132128
+DLinkSwitch turn off in app end 1512751319.804404   2017-12-08 17:41:59.804404
+DLinkSwitch turn on in app start 1512751341.620790   2017-12-08 17:42:21.620790
+DLinkSwitch turn on in app end 1512751343.180147   2017-12-08 17:42:23.180147
+DLinkSwitch turn off in app start 1512751353.516362   2017-12-08 17:42:33.516362
+DLinkSwitch turn off in app end 1512751355.372357   2017-12-08 17:42:35.372357
+DLinkSwitch turn on in app start 1512751366.540503   2017-12-08 17:42:46.540503
+DLinkSwitch turn on in app end 1512751368.140174   2017-12-08 17:42:48.140174
+DLinkSwitch turn off in app start 1512751378.644515   2017-12-08 17:42:58.644515
+DLinkSwitch turn off in app end 1512751381.740417   2017-12-08 17:43:01.740417
+DLinkSwitch turn on in app start 1512751394.788582   2017-12-08 17:43:14.788582
+DLinkSwitch turn on in app end 1512751396.820345   2017-12-08 17:43:16.820345
+DLinkSwitch turn off in app start 1512751407.292186   2017-12-08 17:43:27.292186
+DLinkSwitch turn off in app end 1512751409.068213   2017-12-08 17:43:29.068213
+DLinkSwitch turn on in app start 1512751422.788576   2017-12-08 17:43:42.788576
+DLinkSwitch turn on in app end 1512751424.956492   2017-12-08 17:43:44.956492
+DLinkSwitch turn off in app start 1512751437.004235   2017-12-08 17:43:57.004235
+DLinkSwitch turn off in app end 1512751438.684233   2017-12-08 17:43:58.684233
+DLinkSwitch turn on in app start 1512751449.692138   2017-12-08 17:44:09.692138
+DLinkSwitch turn on in app end 1512751451.580371   2017-12-08 17:44:11.580371
+DLinkSwitch turn off in app start 1512751462.284519   2017-12-08 17:44:22.284519
+DLinkSwitch turn off in app end 1512751463.772418   2017-12-08 17:44:23.772418
+DLinkSwitch turn on in app start 1512751475.268265   2017-12-08 17:44:35.268265
+DLinkSwitch turn on in app end 1512751476.748238   2017-12-08 17:44:36.748238
+DLinkSwitch turn off in app start 1512751488.132320   2017-12-08 17:44:48.132320
+DLinkSwitch turn off in app end 1512751489.668277   2017-12-08 17:44:49.668277
+DLinkSwitch turn on in app start 1512751501.972616   2017-12-08 17:45:01.972616
+DLinkSwitch turn on in app end 1512751503.572285   2017-12-08 17:45:03.572285
+DLinkSwitch turn off in app start 1512751513.868323   2017-12-08 17:45:13.868323
+DLinkSwitch turn off in app end 1512751515.740302   2017-12-08 17:45:15.740302
+DLinkSwitch turn on in app start 1512751526.564313   2017-12-08 17:45:26.564313
+DLinkSwitch turn on in app end 1512751528.500320   2017-12-08 17:45:28.500320
+DLinkSwitch turn off in app start 1512751540.116392   2017-12-08 17:45:40.116392
+DLinkSwitch turn off in app end 1512751541.996559   2017-12-08 17:45:41.996559
+DLinkSwitch turn on in app start 1512751560.276352   2017-12-08 17:46:00.276352
+DLinkSwitch turn on in app end 1512751562.132353   2017-12-08 17:46:02.132353
+DLinkSwitch turn off in app start 1512751576.740570   2017-12-08 17:46:16.740570
+DLinkSwitch turn off in app end 1512751578.436366   2017-12-08 17:46:18.436366
+DLinkSwitch turn on in app start 1512751589.948369   2017-12-08 17:46:29.948369
+DLinkSwitch turn on in app end 1512751594.004265   2017-12-08 17:46:34.004265
+DLinkSwitch turn off in app start 1512751603.828930   2017-12-08 17:46:43.828930
+DLinkSwitch turn off in app end 1512751605.828377   2017-12-08 17:46:45.828377
+DLinkSwitch turn on in app start 1512751617.628683   2017-12-08 17:46:57.628683
+DLinkSwitch turn on in app end 1512751619.260414   2017-12-08 17:46:59.260414
+DLinkSwitch turn off in app start 1512751629.068391   2017-12-08 17:47:09.068391
+DLinkSwitch turn off in app end 1512751630.484391   2017-12-08 17:47:10.484391
+DLinkSwitch turn on in app start 1512751643.396383   2017-12-08 17:47:23.396383
+DLinkSwitch turn on in app end 1512751645.508410   2017-12-08 17:47:25.508410
+DLinkSwitch turn off in app start 1512751656.612340   2017-12-08 17:47:36.612340
+DLinkSwitch turn off in app end 1512751658.308434   2017-12-08 17:47:38.308434
